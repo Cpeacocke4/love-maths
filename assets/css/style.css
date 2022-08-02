@@ -168,6 +168,7 @@ body {
     background-color: #445361;
     border: 1px transparent;
     border-radius: 20px;
+    color: white;
 }
 
 .btn--gray:active,
